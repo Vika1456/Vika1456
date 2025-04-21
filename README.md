@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ** Python **
-- 💬 Ask me about * через телеграмм @Freez56 *
+- 🌱 I’m currently learning **Python**
+- 💬 Ask me about *через телеграмм @Freez56*
 
 
